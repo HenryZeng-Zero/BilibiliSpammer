@@ -1,0 +1,7 @@
+{
+    "generation": "0",
+    "generationTypes": {
+        "Length": [ "Short","Medium","Long","VeryLong","TerriblyLong" ],
+        "Direction": [ "News","Recreation","Foods","Sport","History","Animal","Movie" ]
+    }
+}
