@@ -31,7 +31,7 @@
         "name": "人民故事",
         "type": {
             "Length": [ "Short","Medium"],
-            "Direction": [ "Recreation" ]
+            "Direction": [ "Recreation","Touching" ]
         }
     },
     "1342440854": {
@@ -60,6 +60,36 @@
         "type": {
             "Length": [ "Short","Medium"],
             "Direction": [ "Recreation" ]
+        }
+    },
+    "678670879": {
+        "name": "阿瑞在记录",
+        "type": {
+            "Length": [ "Short","Medium"],
+            "Direction": [ "Recreation","Touching" ]
+        }
+    },
+    "555939080": {
+        "name": "孙知名",
+        "type": {
+            "Length": [ "Short","Medium"],
+            "Direction": [ "Recreation","Touching" ]
+        }
+    },
+    "22535331": {
+        "name": "贝克汉堡Ya",
+        "type": {
+            "Length": [ "Short","Medium"],
+            "Direction": [ "Recreation" ],
+            "Racial": [ "White","Yellow","Brown" ]
+        }
+    },
+    "1999877191": {
+        "name": "虾米饺",
+        "type": {
+            "Length": [ "Short","Medium"],
+            "Direction": [ "Recreation","Movie" ],
+            "Racial": [ "White","Yellow","Brown" ]
         }
     }
 }
