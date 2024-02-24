@@ -1,7 +1,32 @@
 {
-    "generation": "0",
+    "generation": "1",
     "generationTypes": {
         "Length": [ "Short","Medium","Long","VeryLong","TerriblyLong" ],
-        "Direction": [ "News","Recreation","Foods","Sport","History","Animal","Movie" ]
+        "Direction": [ 
+            "News",
+            "Recreation",
+            "Foods",
+            "Sport",
+            "History",
+            "Animal",
+            "Movie",
+            "Touching"
+        ],
+        "Racial": [
+            "White",
+            "Yellow",
+            "Black",
+            "Brown",
+            "Mutant",
+            "Fox",
+            "Drg",
+            "Loong",
+            "Insect",
+            "Fox_jp_s",
+            "Fox_w_s",
+            "Drg_jp_s",
+            "Drg_w_s",
+            "Loong_s"
+        ]
     }
 }
